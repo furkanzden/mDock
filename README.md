@@ -6,7 +6,7 @@
 *Apple'ın ikonik Dynamic Island deneyimini, Windows masaüstünüze taşıyan ultra hafif ve akıllı widget.*
 
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010/11-0078D6?style=flat-square&logo=windows)]()
-[![Size](https://img.shields.io/badge/Boyut-Sadece%2097%20KB-2ea44f?style=flat-square)]()
+[![Size](https://img.shields.io/badge/Boyut-%20~600%20KB-2ea44f?style=flat-square)]()
 [![CPU](https://img.shields.io/badge/Boşta%20CPU-%250.1-brightgreen?style=flat-square)]()
 
 </div>
@@ -14,7 +14,7 @@
 ---
 
 ## 🌟 Neden mDock?
-mDock, masaüstünüzü şık bir Apple estetiğiyle buluştururken sistem kaynaklarınızı yormaz. Electron veya web tabanlı ağır widget'ların aksine, **yalnızca ~97 KB** boyutunda tek bir `.exe` dosyasından ibarettir. Kurulum gerektirmez, arka planda **%0.1 CPU** ile çalışır ve siz farkına bile varmadan masaüstü deneyiminizi iyileştirir.
+mDock, masaüstünüzü şık bir Apple estetiğiyle buluştururken sistem kaynaklarınızı yormaz. Electron veya web tabanlı ağır widget'ların aksine, düşük boyutlu tek bir `.exe` dosyasından ibarettir. Kurulum gerektirmez, arka planda **%0.1 CPU** ile çalışır ve siz farkına bile varmadan masaüstü deneyiminizi iyileştirir.
 
 ---
 
@@ -85,7 +85,7 @@ Sistem tepsisindeki (sağ alt köşe) mDock simgesine **Sağ Tıklayarak** veya 
 mDock kolay kurulum ile sadece bir exe dosyası üzerinden kurulabilir. 
 İsterseniz mDocuk Porable sürümünüde kullanailirsiniz.
 
-1.  [Releases](https://github.com/furkanzden/mDock/releases/tag/v1.0.0) sayfasından en güncel `mDock.exe` dosyasını indirin. 
+1.  [Releases](https://github.com/furkanzden/mDock/releases/tag/v1.0.0) sayfasından en güncel `mDock Portable` dosyasını indirin. 
 2.  Zip dosyasını istediğiniz bir klasöre çıkartın (Örn: `C:\Programlar\mDock`).
 3.  `mDock.exe` dosyasını çift tıklayarak çalıştırın.
 4.  İlk açılışta ayarlarınızın kaydedileceği `config.json` dosyası otomatik olarak oluşur.
